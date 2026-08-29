@@ -110,7 +110,6 @@ We will update the effective date when this policy changes. Material changes may
 
 - Operator: Dolgoresoft
 - Email: main@dolgoresoft.com
-- Address: (If applicable)
 
 ---
 
