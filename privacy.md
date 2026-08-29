@@ -112,7 +112,6 @@
 
 - 운영자: Dolgoresoft
 - 이메일: main@dolgoresoft.com
-- 주소: (해당되는 경우 기입)
 
 ---
 
