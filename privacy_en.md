@@ -2,9 +2,9 @@
 
 **Effective date:** 29 August 2026  
 **Operator:** Dolgoresoft  
-**App:** Dahari (`com.dolgoresoft.dahari`)  
+**App:** Dahari  
 **Contact:** main@dolgoresoft.com  
-**Korean:** [PRIVACY.md](PRIVACY.md)
+**한국어:** [한국어](PRIVACY.md)
 
 Dahari helps non-native Korean speakers practice job interviews in Korean. This policy explains what we collect, why we use it, how long we keep it, and who we share it with.
 
@@ -69,6 +69,7 @@ Provider policies:
 You may request access, correction, deletion, or restriction of processing.
 
 - You can edit your profile in the app.
+- **Delete account** in Settings removes your account and interview history.
 - You can sign out or leave demo mode to clear that session’s local data.
 - For other requests, email us at the contact above.
 - You can unlink Google or Apple in those account settings.
